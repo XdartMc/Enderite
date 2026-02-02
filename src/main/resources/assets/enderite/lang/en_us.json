@@ -1,0 +1,18 @@
+{
+  "item.enderite.enderite_ore": "Enderite Ore",
+  "item.enderite.enderite_nugget": "Enderite Nugget",
+  "item.enderite.enderite_block": "Enderite Block",
+  "item.enderite.enderite_ingot": "Enderite Ingot",
+  "item.enderite.enderite_chestplate": "Enderite Chestplate",
+  "item.enderite.enderite_boots": "Enderite Boots",
+  "item.enderite.enderite_helmet": "Enderite Helmet",
+  "item.enderite.enderite_leggings": "Enderite Leggings",
+  "item.enderite.enderite_upgrade": "Enderite Upgrade",
+  "item.enderite.enderiten_pickaxe": "Enderiten Pickaxe",
+  "item.enderite.enderiten_axe": "Enderiten Axe",
+  "item.enderite.enderiten_sword": "Enderiten Sword",
+  "item.enderite.enderiten_shovel": "Enderiten Shovel",
+  "item.enderite.enderiten_hoe": "Enderiten Hoe",
+  "item.enderite.enderspider_spawn_egg": "Ender spider Spawn Egg",
+  "entity.enderite.enderspider": "Ender spider"
+}
