@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "block_destroy",
+    "block_open",
+    "note_block_play",
+    "eat",
+    "block_place",
+    "step",
+    "drink"
+  ]
+}

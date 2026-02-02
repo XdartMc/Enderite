@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:end_stone",
+    "b": "enderite:enderite_nugget",
+    "c": "enderite:enderite_upgrade"
+  },
+  "result": {
+    "id": "enderite:enderite_upgrade",
+    "count": 2
+  }
+}
